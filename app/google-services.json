@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007803516178",
+    "project_id": "say-and-pray",
+    "storage_bucket": "say-and-pray.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007803516178:android:adc619dfa308d0d2785fcb",
+        "android_client_info": {
+          "package_name": "com.example.sayandpray"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3CdcnAVkMWbVVsnJEd4VQt2wiPdPunCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

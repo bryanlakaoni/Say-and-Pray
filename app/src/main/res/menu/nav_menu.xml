@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home"
+        android:title="Beranda" />
+    <item
+        android:id="@+id/nav_prayer"
+        android:title="List Doa"
+        android:icon="@drawable/prayerlist"/>
+    <item
+        android:id="@+id/nav_input"
+        android:title="Tambah Doa"
+        android:icon="@drawable/addprayer"/>
+    <item
+        android:id="@+id/nav_favorite"
+        android:title="Favorit"
+        android:icon="@drawable/favorite"/>
+</menu>
