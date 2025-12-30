@@ -29,10 +29,10 @@
 </div>
 
 ## 🧐 What is this?
-* "Users often forget prayer schedules (even the prayer itself)"
-* "This app provides offline access to local prayer list"
-* "This app also provides online access to liturgical calendar"
-* "This app has a built in API to let user have their daily Scripture (Bible verse)"
+* Users often forget prayer schedules (even the prayer itself)
+* This app provides offline access to local prayer list
+* This app also provides online access to liturgical calendar
+* This app has a built in API to let user have their daily Scripture (Bible verse)
 
 ## 🛠️ Tech Stack
 * **Language:** Java (JDK 17)
