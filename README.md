@@ -39,7 +39,7 @@
 * **Core:** Android SDK (Native)
 * **UI:** XML Layouts, Material Design Components
 * **Database:** SQLite (Offline Storage)
-* **Features:** Android AlarmManager (for Reminders), Recycler View
+* **Features:** Android AlarmManager (for Reminders), List View
 * **Tools:** Android Studio, Gradle, Git
 
 ## ✨ Key Features
